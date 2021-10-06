@@ -1,0 +1,63 @@
+body{
+    background-color: #ededed; 
+    font-family: 'Courier New', Courier, monospace; 
+    
+}
+
+.logo{
+    width: 20px;
+    height: 20px;
+    padding-left: 5%;
+}
+
+
+nav{
+    text-align: center;
+    padding: 14px 0px;
+}
+
+nav a{
+    color: black; 
+    text-decoration: none; 
+    font-size: 20px; 
+    padding: 0px 10px;
+}
+
+h1{
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+#foto{
+    width: 300px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.knap{
+    font-family: 'Courier New', Courier, monospace; 
+    background-color: white;
+    border:none;
+    padding: 20px 40px;
+    text-align: center;
+    font-size: 15px;
+    margin: 10px 8px;
+    cursor: pointer;
+}
+
+.et{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.to{
+    display: flex;
+    justify-content: center;
+}
+
+.tre{
+    display: flex;
+    justify-content: space-evenly;
+}
